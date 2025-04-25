@@ -1,0 +1,7 @@
+log(hola)
+log ('hola')
+log('hola')
+log('hola three times')
+log("the changes are not reflected as they are changed out of the branch , but the file remained on the screen as it was in use.")
+log('the changes are not reflected as they are changed out of the branch , but the file remained on the screen as it was in use.')
+log('the changes are not reflected as they are changed out of the branch , but the file remained on the screen as it was in use.')
